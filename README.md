@@ -1,1 +1,1 @@
-# DesignPatternsProject
+# individual-project-Gowri-Rk
